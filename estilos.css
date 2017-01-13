@@ -1,0 +1,36 @@
+
+#volver{
+	bottom: 0;
+	right: 0;
+	position: fixed;
+	margin-right: 15px;
+	margin-bottom: 10px;
+	display: none;
+	z-index: 1;
+}
+
+#volver img{
+	width:48px;
+	height:48px;
+	opacity:.5;
+
+}
+#volver img:hover{
+	opacity: 1;
+	transition: 0.3s all ease;
+	cursor: pointer;
+
+}
+.parallax-window {
+min-height: 400px;
+background: transparent;
+width: 100%;
+margin-top: 10%;
+}
+
+
+
+
+
+
+
